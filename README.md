@@ -12,7 +12,7 @@ The notebook demonstrates how to use Presidio to detect and anonymize Personally
 - Python 3.7 or higher
 - Jupyter Notebook
 
-### Installation
+### Installation & Running the Notebook
 
 1. Clone the repository:
     ```sh
@@ -24,15 +24,7 @@ The notebook demonstrates how to use Presidio to detect and anonymize Personally
     ```sh
     pip install -r requirements.txt
     ```
-
-### Running the Notebook
-
-1. Open Jupyter Notebook:
-    ```sh
-    jupyter notebook
-    ```
-
-2. Open the `Presidio PoC.ipynb` notebook and run the cells to execute the PoC.
+3. You're all set! Run the Jupyter notebook.
 
 
 ## Credits
