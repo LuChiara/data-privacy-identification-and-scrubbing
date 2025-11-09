@@ -27,6 +27,19 @@ The notebook demonstrates how to use Presidio to detect and anonymize Personally
 3. You're all set! Run the Jupyter notebook.
 
 
+## Outputs
+Before
+
+
+<img width="825" height="184" alt="Screenshot 2025-11-08 at 9 55 59 PM" src="https://github.com/user-attachments/assets/cec7d8a8-7b86-4d37-bb08-11840d459a87" />
+
+
+After
+
+
+<img width="791" height="182" alt="Screenshot 2025-11-08 at 9 56 05 PM" src="https://github.com/user-attachments/assets/0f2fadf9-2a68-4fac-a039-029552a595af" />
+
+
 ## Credits
 Presidio documentation: https://microsoft.github.io/presidio/
 
